@@ -8,9 +8,11 @@ GECI es una aplicación Angular que maqueta un flujo de gestión de solicitudes 
 
 ## 📸 Capturas
 
-> Pendiente de añadir capturas de pantalla de la aplicación.
+![Pantalla de inicio de GECI](screenshots/home.png)
 
-El repositorio contiene imágenes corporativas en `GECI/src/assets/images/`, pero no capturas finales de la interfaz.
+![Gestión de solicitudes](screenshots/solicitudes.png)
+
+![Detalle de solicitud](screenshots/detalle-solicitud.png)
 
 ## 🧩 Funcionalidades
 
